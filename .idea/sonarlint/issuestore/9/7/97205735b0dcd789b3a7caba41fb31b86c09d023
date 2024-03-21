@@ -1,0 +1,9 @@
+
+
+java:S1192"JDefine a constant instead of duplicating this literal "
+NÃºmero " 3 times.(¼ÙĞ´8àóÇÃä1J$00585e83-4ffc-474b-92ea-62b7816ace09
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôñ‡Èıÿÿÿÿ8®ÏÆÃä1J$16cdf46a-c437-4c29-a376-1fa1378857da
+m	java:S106	"+Replace this use of System.out by a logger.(³¨ÿÉ8¾ÏÆÃä1J$f2688deb-ba78-4712-8f03-f3776892c6dd
+m	java:S106"+Replace this use of System.out by a logger.(¼ÙĞ´8¾ÏÆÃä1J$b0b12865-2a53-4a85-88b9-8c350ad02acc
+r	java:S106"+Replace this use of System.out by a logger.(øùÔ†üÿÿÿÿ8”›ÇÃä1J$0ffc17d6-3775-48ef-aae9-05893c8f8c16
+r	java:S106"+Replace this use of System.out by a logger.(×ˆûÍıÿÿÿÿ8ÿóÇÃä1J$af20dab2-7d5c-4edc-82b6-ff64060ca115

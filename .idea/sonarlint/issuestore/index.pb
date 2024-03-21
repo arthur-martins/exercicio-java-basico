@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+f
+6src/main/java/br/com/unifacisa/si/poo/basico/Main.java,2\0\20cfa8e0e4601fb34ca640e3f7dc96647c76531c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+k
+;src/main/java/br/com/unifacisa/si/poo/basico/desafio01.java,3\0\30e8700d511025b444571a5e30183dae3d00d759
+u
+Esrc/main/java/br/com/unifacisa/si/poo/basico/desafio1/exercicio1.java,9\7\97205735b0dcd789b3a7caba41fb31b86c09d023
+v
+Fsrc/main/java/br/com/unifacisa/si/poo/basico/desafio1/exercicioUm.java,f\c\fc87e2a797a4215321486038a48fc52546c85ffa
+v
+Fsrc/main/java/br/com/unifacisa/si/poo/basico/desafio1/ExercicioUm.java,d\0\d0c3ea8308b69dd2d37f8cdf4b7c125d67b881b2
+u
+Esrc/main/java/br/com/unifacisa/si/poo/basico/desafio1/Exercicio1.java,2\f\2fb53b4bd59f703dae50f18b4c7e2406123a9c53
+u
+Esrc/main/java/br/com/unifacisa/si/poo/basico/desafio1/Exercicio2.java,b\b\bb1824d2f153dadfeb148cef016bb05e619dc11f
+u
+Esrc/main/java/br/com/unifacisa/si/poo/basico/desafio1/Exercicio3.java,b\2\b23e0bcf5864a7da02e4b17e91b80930cbfff74a

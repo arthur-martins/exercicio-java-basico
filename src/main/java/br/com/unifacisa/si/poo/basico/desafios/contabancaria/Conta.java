@@ -6,6 +6,7 @@ public class Conta {
     private String nomeTitular;
     private double saldo;
 
+    public Conta() {}
     public Conta(int numero, String nomeTitular) {
         this.numero = numero;
         this.nomeTitular = nomeTitular;
@@ -31,6 +32,10 @@ public class Conta {
 
     public double getSaldo() {
         return saldo;
+    }
+
+    public void setSaldo(double saldo) {
+        this.saldo = saldo;
     }
 
     public void deposito(double quantia) {

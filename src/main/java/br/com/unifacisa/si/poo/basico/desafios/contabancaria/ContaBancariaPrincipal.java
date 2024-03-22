@@ -5,6 +5,7 @@ import javax.swing.*;
 public class ContaBancariaPrincipal {
     public static void main(String[] args) {
         Conta conta;
+        ContaServico contaServico = new ContaServico();
         JOptionPane.showMessageDialog(null, "Bem-vindo ao programa de Conta Bancária!");
 
         String inputNumero = JOptionPane.showInputDialog("Insira o número da conta");
@@ -25,14 +26,15 @@ public class ContaBancariaPrincipal {
 
         String inputQuantia = JOptionPane.showInputDialog("Insira um valor de depósito");
         double quantia = Double.parseDouble(inputQuantia);
-        conta.deposito(quantia);
+//        conta.deposito(quantia);
+        contaServico.depositar(conta, quantia); // Utilizando o método depositar da classe ContaServico
 
         JOptionPane.showMessageDialog(null, conta);
 
         inputQuantia = JOptionPane.showInputDialog("Insira um valor de saque");
         quantia = Double.parseDouble(inputQuantia);
-        conta.saque(quantia);
-
+//        conta.saque(quantia);
+        contaServico.sacar(conta, quantia); // Utilizando o método saque da classe ContaServico
         JOptionPane.showMessageDialog(null, conta);
     }
 }
